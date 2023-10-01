@@ -1,6 +1,6 @@
 [English](https://github.com/SeeDAO-DevGuild/.github/blob/main/README.md) | 中文
 
-SeeDAO-DevGuild 属于 SeeDAO 研发公会 的开源组织
+#### SeeDAO-DevGuild 属于 SeeDAO 研发公会 的开源组织
 
 ## SeeDAO 研发公会
 <details> 
