@@ -10,4 +10,4 @@ SeeDAO 研发公会是一个开发者探索、融入、创建Web3生态的去中
 </details>
 
 ## 如何加入研发公会
-[点击查看](https://seedao.notion.site/Onboarding-1acdd93af0824f4d87551dcf75fe3790?pvs=4)
+[点击查看](https://seedao.notion.site/Onboarding-e7abad782ed94b80ab0a848bf1e37e7a?pvs=4)
