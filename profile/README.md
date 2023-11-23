@@ -8,4 +8,4 @@ SeeDAO R&D Guild is a decentralized community for developers to explore, immerse
 </details>
 
 ## How to Join the R&D Guild
-[Click here to view](https://seedao.notion.site/Onboarding-1acdd93af0824f4d87551dcf75fe3790?pvs=4)
+[Click here to view](https://seedao.notion.site/Onboarding-e7abad782ed94b80ab0a848bf1e37e7a?pvs=4)
